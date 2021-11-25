@@ -1,0 +1,22 @@
+html {
+    background-color: burlywood;
+}
+h1 {
+    color: rgb(104, 66, 39);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p span{
+    color: red;
+}
+article p{
+    display: inline;
+    background-color: rgb(128, 27, 2);
+    border-radius: 20px;
+    color: #fff;
+    margin:auto;
+
+}
+h3{
+    margin-left: 900px;
+}
